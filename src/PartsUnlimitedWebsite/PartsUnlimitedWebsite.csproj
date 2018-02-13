@@ -36,7 +36,7 @@
   </ItemGroup>
 
   <!--<Target Name="PrecompileScript" BeforeTargets="BeforeBuild">
-    <Exec Command="npm install --loglevel=error" />
+    <Exec Command="npm install loglevel=error" />
     <Exec Command="grunt" />
     </Target>-->
 
